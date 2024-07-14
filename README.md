@@ -1,5 +1,4 @@
-# Trilha HTML - Dio.me
-## Módulo 02 - HTML I - Conceitos Básicos
+# Meu Segundo Site
 
 Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que vimos neste módulo. Os temas que deverão ser abordados são:
 - Formulários
@@ -7,7 +6,7 @@ Este desafio tem como objetivo, criar um site "quase" completo, com tudo o que v
 - Mídias
 - Tabelas
 
-Além de outros recursos falados nas aulas!
+Além de outros recursos falados nas aulas da segundo módulo do curso de [Formação HTML Web Developer](https://web.dio.me/track/formacao-html-web-developer) | [DIO.me](https://web.dio.me)
 
 ## Instruções
 1. Você deve criar um site de uma clínica médica (você escolhe a especialidade)
